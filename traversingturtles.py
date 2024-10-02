@@ -11,21 +11,30 @@ turtle_colors = ["red", "blue", "green", "orange", "purple", "gold"]
 
 for s in turtle_shapes:
   t = trtl.Turtle(shape=s)
+  new_color = turtle_colors.pop()
+  t.fillcolor(new_color)
+  t.pencolor(new_color)
   my_turtles.append(t)
 
-#  
+direction = 90
+
+# starting point for all the drwaings
 startx = 0
 starty = 0
 
-#
+# draws each picture
 for t in my_turtles:
+  t.setheading(direction)
+  t.penup()
   t.goto(startx, starty)
+  t.pendown()
   t.right(45)     
   t.forward(50)
+  direction = t.heading()
 
-#	
-  startx = startx + 50
-  starty = starty + 50
+#	sets coordinates for the next drawing
+  startx = t.xcor()
+  starty = t.ycor()
 
 wn = trtl.Screen()
 wn.mainloop()
