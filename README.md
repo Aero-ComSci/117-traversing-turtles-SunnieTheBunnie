@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/K3waziIG)
 # Activity 1.1.7
 
 * Utilize this read me to showcase the project.
@@ -16,10 +17,17 @@
 
 ## Questions about the Activity as you work. 
 ```
-
+none
 ```
 #### Description Of The App according to User Story
 
 `
 # Include a video of the result of the code at speed 0 or Fast. Be sure to make it available for me to see.
+
+
+
+https://github.com/user-attachments/assets/5bbb5f91-cd52-4cb3-8d57-38a7c5b486c2
+
+
+
 ## For Regrades use the Feedback and @baeztheprog on your commit messages.
