@@ -17,10 +17,17 @@
 
 ## Questions about the Activity as you work. 
 ```
-
+none
 ```
 #### Description Of The App according to User Story
 
 `
 # Include a video of the result of the code at speed 0 or Fast. Be sure to make it available for me to see.
+
+
+
+https://github.com/user-attachments/assets/5bbb5f91-cd52-4cb3-8d57-38a7c5b486c2
+
+
+
 ## For Regrades use the Feedback and @baeztheprog on your commit messages.
